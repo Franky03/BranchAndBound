@@ -103,3 +103,11 @@ Subject to:
 Best solution: [0.0, 1.0, 0.0, 0.0, 1.0, 0.0, 0.0]
 Objective value: 20.0
 ```
+
+### Grupo
+
+
+|<a href="https://github.com/Franky03/" target="_blank">**Frankley Kaiky**</a>      | <a href="https://github.com/mariaM0ura/" target="_blank">**Maria Moura**</a> |
+|:---------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
+|               <img src="https://avatars.githubusercontent.com/u/100447684?v=4" width="200px"> </img>                          | <img src="https://avatars.githubusercontent.com/u/116045034?v=4" width="200px"> </img>|
+|  <a href="https://github.com/Franky03" target="_blank">`github.com/Franky03`</a>  |<a href="https://github.com/mariaM0ura/" target="_blank">`github.com/mariaM0ura`</a>|
